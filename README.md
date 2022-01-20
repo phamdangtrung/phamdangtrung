@@ -15,7 +15,10 @@
 <details>
     <summary> Main focus </summary>
     <br/>
-    ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+    ![C#](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+    <!-- 
+    C#
+    -->
 </details>
 
 #### Interest
