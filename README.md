@@ -15,7 +15,7 @@
 <details>
     <summary> Main focus </summary>
     <br/>
-    ![Csharp](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
+    ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 </details>
 
 #### Interest
