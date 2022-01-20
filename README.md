@@ -4,7 +4,7 @@
 
 ## About me
 
-- My real name is <span style="color: #ca696c;">Do Nguyen Hoang Son</span>, but I prefer Pham Dang Trung. You can either call me Trung or Tun.
+- My real name is <span style="color:#ca696c;font-style:bold;">Do Nguyen Hoang Son</span>, but I prefer Pham Dang Trung. You can either call me Trung or Tun.
 
 --- 
 
