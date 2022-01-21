@@ -8,7 +8,7 @@
 - ☺️  You can either call me **Trung** or **Tun**.
 - 🏢 I'm currently a backend developer for **[Robust Tech House](https://robusttechhouse.com/)** and **[CPG Corp](https://www.cpgcorp.com.sg/)**.
 - 🎨 A hobbyist artist. 
-- You can visit my blog **[here](https://www.phamdangtrung.com/)**.
+- 📓 You can visit my blog **[here](https://www.phamdangtrung.com/)**.
 
 ## Technologies
 ### **# Main focus**
