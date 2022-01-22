@@ -1,5 +1,5 @@
 <div align="center">
-    <img max-width="800" src="https://lh3.googleusercontent.com/EdTbKl9TpDDtVPYyFz7cOxG0gofVh1Z41JbVBycjDgYB6WHMCaPWgoE-ZqlP3iPyQ2PbSie-XaKNCT8GrqIME1hRptaMfQ67tv3Ds9rzfjQ0YFiEkxM94N7ndAyDRGkV2jzIoLOk6gsQOdbzSRc0-m4AvB9S0ZBTcli7wxNlJCGEutXV8JaIgAxmgfs9nWIrhtpkvw9fTrcsRRkzAN-zlN8N-9d2eXbf_uyeFO9dhAmdwKK6fGjfF7y3TDgl1ZQKdH4dDC2CSRU9s9GbCeFJw4b7lO4vBKnUaak400cR9wpwPeN2c7axFDBf88dthFejv-AGthaYaUaGV-6--ObE6ecMEmzwkLEdI8ct5jeDt6K9FUufaMjnPvivY1RvPjDvO-6etzl5n0k0p8AywLbch7GFgsObF8O9eZfTwcweO4GWmAOBOaBLYgejUYsChi2LTv7J9E2nGJ9WTfPnjePYCfWZlGnyo_BD_tG3Z4afKlpF4nCl5LkMSN7mXH9HPjQns48OxnrLxT2UNsWgFxUURSv8SGbSdWGHBNWNSm2kR_UyZMTXD9FbuB28zKUOTN7vk6BvAMUlUMsdGnhv07NGk2IwxbygUsg4r7Wsn0Ov3XSYpwAIyekLbbQ8TwFTTSa6ep_MwI20F3crktFYKEylX8e5uPtG0Fa2INqhqlxFZOjFq6qE6i03hVjmZ-EJsqyM_R1Qm5mVvr6uGPCmrap46ks9=w670-h312-no?authuser=0"/>
+<img max-width="800" src="https://lh3.googleusercontent.com/pw/AM-JKLU9nnjZi7meB8kpHu1um0Cdn8pfFgNJnB_V_5v_A9jVivVXEC_iFhLEMDumCiS_anYQ8H_RwQjyF_EzexCI4EljKOr59Dc4KSshm_bfYtiklmSqkvIrIJT965l_7vc3-huBtcByob6aRTAkpkUMh7U8=w1078-h502-no?authuser=0"/>
 </div>
 
 # Oyasumi Tun Tun 💤
@@ -10,7 +10,7 @@
 - 😆 My real name is **Do Nguyen Hoang Son** but I prefer **Pham Dang Trung**.
 - ☺️  You can either call me **Trung** or **Tun**.
 - 🏢 I'm currently a backend developer for **[Robust Tech House](https://robusttechhouse.com/)** and **[CPG Corp](https://www.cpgcorp.com.sg/)**.
-- 🎨 A hobbyist artist. 
+- 🎨 A hobbyist artist.
 - 📓 You can visit my blog **[here](https://www.phamdangtrung.com/)**.
 
 ## Technologies
@@ -43,6 +43,6 @@
 
 ### **# Toolchain**
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
