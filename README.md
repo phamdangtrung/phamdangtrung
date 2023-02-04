@@ -8,7 +8,7 @@
 - 💬 English/Vietnamese
 - 😆 My real name is **Do Nguyen Hoang Son** but I prefer **Pham Dang Trung**.
 - ☺️  You can either call me **Trung** or **Tun**.
-- 🏢 I'm currently a backend developer for **[Robust Tech House](https://robusttechhouse.com/)** and **[CPG Corp](https://www.cpgcorp.com.sg/)**.
+- 🏢 I'm currently a backend developer.
 - 🎨 A hobbyist artist.
 - 📓 You can visit my blog **[here](https://www.phamdangtrung.com/)**.
 
